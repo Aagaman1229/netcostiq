@@ -1,0 +1,52 @@
+# -------------------------------
+# Packet & Network Analysis
+# -------------------------------
+scapy
+pyshark
+dpkt
+
+# -------------------------------
+# Data Handling
+# -------------------------------
+pandas
+numpy
+tqdm
+
+# -------------------------------
+# Machine Learning / AI
+# -------------------------------
+scikit-learn
+xgboost
+joblib
+
+# -------------------------------
+# Visualization
+# -------------------------------
+matplotlib
+seaborn
+plotly
+
+# -------------------------------
+# Dashboard / UI
+# -------------------------------
+streamlit
+
+# -------------------------------
+# Reporting
+# -------------------------------
+jinja2
+weasyprint
+reportlab
+
+# -------------------------------
+# Utilities
+# -------------------------------
+python-dateutil
+ipwhois
+requests
+pyyaml
+
+# -------------------------------
+# Development / Debug
+# -------------------------------
+rich
